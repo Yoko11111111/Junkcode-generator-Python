@@ -1,2 +1,2 @@
 # Junkcode-generator-Python
-An simple Junkcode Generator written in Python
+An simple useless Junkcode Generator written in Python
